@@ -9,7 +9,7 @@ git clone https://github.com/SmileBitch21/PesbukBrute
 
 cd PesbukBrute
 
-pip2 install -r modul.txt
+pip2 install -r module.txt
 
 python2 sempak.pyc
 
